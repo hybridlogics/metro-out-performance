@@ -1,0 +1,24 @@
+{
+    "name": "metro_out_performance",
+    "version": "1.0.0",
+    "description": "Out performance data of Metro Areas Of US",
+    "main": "api/server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://abdul1399@bitbucket.org/steven_pack/metro-area-outperformance2.git"
+    },
+    "keywords": [
+    "Metro",
+    "Area"
+  ],
+    "author": "Abdul Qudoos Mehdi",
+    "license": "ISC",
+    "dependencies": {
+        "csvtojson": "^1.0.3",
+        "express": "^4.14.0",
+        "sqlite3": "^3.1.7"
+    }
+}

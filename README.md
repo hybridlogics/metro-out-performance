@@ -8,7 +8,11 @@
 
 ## INSTRUCTIONS:
 
-- Open command line in ROOT directory and type:
+- Open cmd in ROOT directory and type:
+
+            npm install
+
+- Open cmd in "api/" directory and type:
             
             node server.js
 
